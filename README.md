@@ -3,7 +3,7 @@
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project was to build, train, and test an AI model for sentiment analysis on tweets from Twitter. The goal was to predict whether a tweet expressed a positive or negative sentiment.
+This project aimed to build, train, and test an AI model for sentiment analysis on tweets from Twitter. The goal was to predict whether a tweet expressed a positive or negative sentiment.
 
 ### Methods Used
 * Inferential Statistics
@@ -41,4 +41,4 @@ The purpose of this project was to build, train, and test an AI model for sentim
 ## Deliverables
 * [Tweet Sentiment Analysis using NLP (Slide Deck)](https://docs.google.com/presentation/d/1fM4FMZr9NIFt8U8tPeaV5KhOLJEfj9Ayz_kGXuRMv94/edit?usp=sharing)
 
-* [Tweet Sentiment Analysis using NLP (Notebook)](https://docs.google.com/presentation/d/1fM4FMZr9NIFt8U8tPeaV5KhOLJEfj9Ayz_kGXuRMv94/edit?usp=sharing)
+* [Tweet Sentiment Analysis using NLP (Notebook)](https://github.com/Talha-Fasih-Khan/Twitter-Sentiment-Analysis-with-NLP/blob/5dc831d0046730a1d6e4729f01fa0d87a54ebefa/Twitter_Sentiment_Analysis.ipynb)
