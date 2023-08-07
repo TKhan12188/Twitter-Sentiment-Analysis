@@ -36,7 +36,7 @@ This project aimed to build, train, and test an AI model for sentiment analysis 
   * Scikit-learn's CountVectorizer was used to convert the preprocessed text data into numerical feature vectors suitable for machine learning models. This process helped represent the textual data as numerical input for the Naive Bayes classifier.
   
 * Model Training and Evaluation
-  * A Naive Bayes classifier model was trained on the count vectors obtained from the tweets' text. The dataset was split into training and testing sets using the train_test_split function from Scikit-learn. Model performance was evaluated using classification metrics, including precision, recall, F1-score, and accuracy. The classification report and confusion matrix were used to assess the model's performance.
+  * A Naive Bayes classifier model was trained on the count vectors obtained from the tweets' text. The dataset was split into training and testing sets using the train_test_split function from Scikit-learn. Model performance was evaluated using classification metrics, including precision, recall, F1-score, and accuracy. The classification report and confusion matrix assessed the model's performance.
 
 ## Deliverables
 * [Tweet Sentiment Analysis using NLP (Slide Deck)](https://docs.google.com/presentation/d/1fM4FMZr9NIFt8U8tPeaV5KhOLJEfj9Ayz_kGXuRMv94/edit?usp=sharing)
